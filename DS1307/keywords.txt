@@ -1,0 +1,49 @@
+﻿#######################################
+# Syntax Coloring Map For DS1307 RTC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DS1307	KEYWORD1
+tm	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+IsConnected	KEYWORD2
+Initialise	KEYWORD2
+IsRunning	KEYWORD2
+IsLeapYear	KEYWORD2
+Get	KEYWORD2
+Set	KEYWORD2
+Stop	KEYWORD2
+Start	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DS1307_ADDRESS	LITERAL1
+DS1307_REG_SEC	LITERAL1
+DS1307_REG_MIN	LITERAL1
+DS1307_REG_HOUR	LITERAL1
+DS1307_REG_DOW	LITERAL1
+DS1307_REG_DAY	LITERAL1
+DS1307_REG_MONTH	LITERAL1
+DS1307_REG_YEAR	LITERAL1
+DS1307_CLOCKHALT	LITERAL1
+DS1307_CLOCKSTART	LITERAL1
+DS1307_LO_BCD	LITERAL1
+DS1307_HI_BCD	LITERAL1
+DS1307_HI_SEC	LITERAL1
+DS1307_HI_MIN	LITERAL1
+DS1307_HI_HR	LITERAL1
+DS1307_LO_DOW	LITERAL1
+DS1307_HI_DATE	LITERAL1
+DS1307_HI_MTH	LITERAL1
+DS1307_HI_YR	LITERAL1
+SECONDS_FROM_1970_TO_2000	LITERAL1
+DS1307_BASE_YR	LITERAL1
